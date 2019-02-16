@@ -1,0 +1,14 @@
+[
+	{
+		"lat": "123",
+		"long": "412",
+		"types": ["restaurant","sport","tech"],
+		"scores": [1, 2, 3]
+       },
+       {
+		"lat": "123",
+		"long": "412",
+		"types": ["restaurant","sport","tech"],
+		"scores": [1, 2, 3]
+       }
+]
