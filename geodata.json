@@ -6,8 +6,8 @@
 		"scores": [1, 2, 3]
        },
        {
-		"lat": "123",
-		"long": "412",
+		"lat": 135.123456,
+		"long": 135.123456,
 		"types": ["restaurant","sport","tech"],
 		"scores": [1, 2, 3]
        }
